@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+  <title id="title">MIXYANG — Go and AI agents</title>
+  <desc id="desc">Personal space of MIXYANG, Guangzhou University, School of Artificial Intelligence.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#142b3a"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1000" height="280" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="280" rx="18" fill="url(#grid)"/>
+  <path d="M0 279H1000" stroke="#2dd4bf" stroke-opacity=".55" stroke-width="2"/>
+  <circle cx="946" cy="34" r="130" fill="none" stroke="#2dd4bf" stroke-opacity=".09"/>
+  <circle cx="946" cy="34" r="168" fill="none" stroke="#2dd4bf" stroke-opacity=".06"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="48" y="40" width="5" height="14" rx="2" fill="#2dd4bf"/>
+    <text x="66" y="52" fill="#8fb7c3" font-size="12" letter-spacing="2.6">CODE / CURIOSITY / OPEN SOURCE</text>
+    <text x="46" y="136" fill="#f1f5f9" font-size="64" font-weight="700" letter-spacing="-2">MIXYANG<tspan fill="#2dd4bf">.</tspan></text>
+    <text x="50" y="177" fill="#cbd5e1" font-size="23">Go &amp; AI agent development</text>
+    <text x="50" y="231" fill="#91a5b9" font-size="15">Guangzhou University · School of Artificial Intelligence</text>
+  </g>
+  <g transform="translate(688 47)">
+    <rect width="262" height="187" rx="12" fill="#0b1421" stroke="#334b5c"/>
+    <path d="M0 34H262" stroke="#334b5c"/>
+    <circle cx="17" cy="17" r="4" fill="#2dd4bf"/>
+    <circle cx="32" cy="17" r="4" fill="#64748b"/>
+    <circle cx="47" cy="17" r="4" fill="#64748b"/>
+    <text x="241" y="21" text-anchor="end" fill="#64748b" font-size="10" font-family="Consolas, monospace">~/mixyang</text>
+    <g font-family="Consolas, monospace" font-size="15">
+      <text x="21" y="65" fill="#64748b">// keep building</text>
+      <text x="21" y="93" fill="#93c5fd">func <tspan fill="#e2e8f0">build() {</tspan></text>
+      <text x="41" y="120" fill="#2dd4bf">explore()</text>
+      <text x="41" y="145" fill="#2dd4bf">test(); iterate()</text>
+      <text x="21" y="172" fill="#e2e8f0">}</text>
+    </g>
+  </g>
+</svg>
