@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="548" viewBox="0 0 900 548" role="img" aria-labelledby="t d" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="570" viewBox="0 0 900 570" role="img" aria-labelledby="t d" xml:space="preserve">
 <title id="t">MIXYANG</title>
-<desc id="d">A terminal running an agent. Asked who mixyang is, it reads profile.toml, runs the harness tests, and answers: grad student at the School of AI, Guangzhou University, working on agent infra, harnesses, and agent backends.</desc>
+<desc id="d">A terminal running an agent. Asked who mixyang is, it reads profile.toml, runs the harness tests, and answers: grad student at the School of AI, Guangzhou University, working on agent infra, harnesses, and agent backends. Email: ruixingxingxing@gmail.com.</desc>
 <style>
-text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:14px;fill:#c9d1d9;white-space:pre}
-.d{fill:#8b949e}.f{fill:#6e7681}.b{fill:#79c0ff}.s{fill:#a5d6ff}.g{fill:#3fb950}.a{fill:#d29922}.i{font-style:italic}
+text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:14px;fill:#1f2328;white-space:pre}
+.d{fill:#57606a}.f{fill:#656d76}.b{fill:#0969da}.s{fill:#0550ae}.g{fill:#1a7f37}.a{fill:#9a6700}.i{font-style:italic}
 .l{opacity:0;animation:in .25s ease-out forwards}
 .k{fill-opacity:0;animation:key .01s linear forwards}
 .p{animation:pulse .8s ease-in-out 3}
@@ -14,33 +14,34 @@ text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberatio
 @keyframes blink{0%,49%{fill-opacity:1}50%,100%{fill-opacity:0}}
 @media (prefers-reduced-motion:reduce){.l,.k,.p,.c{animation:none;opacity:1;fill-opacity:1}}
 </style>
-<rect x=".5" y=".5" width="899" height="547" rx="10" fill="#0d1117" stroke="#30363d"/>
-<path d="M1 36V11A10 10 0 0 1 11 1H889A10 10 0 0 1 899 11V36Z" fill="#161b22"/>
-<path d="M1 36.5H899" stroke="#30363d"/>
-<circle cx="22" cy="18.5" r="5.5" fill="#30363d"/><circle cx="40" cy="18.5" r="5.5" fill="#30363d"/><circle cx="58" cy="18.5" r="5.5" fill="#30363d"/>
+<rect x=".5" y=".5" width="899" height="569" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<path d="M1 36V11A10 10 0 0 1 11 1H889A10 10 0 0 1 899 11V36Z" fill="#f6f8fa"/>
+<path d="M1 36.5H899" stroke="#d0d7de"/>
+<circle cx="22" cy="18.5" r="5.5" fill="#d0d7de"/><circle cx="40" cy="18.5" r="5.5" fill="#d0d7de"/><circle cx="58" cy="18.5" r="5.5" fill="#d0d7de"/>
 <text x="450" y="23" text-anchor="middle" class="f" style="font-size:12px">~/mixyang</text>
 
 <text x="24" y="72"><tspan class="b">~/mixyang</tspan> <tspan class="g">$</tspan> <tspan class="k" style="animation-delay:.50s">a</tspan><tspan class="k" style="animation-delay:.56s">g</tspan><tspan class="k" style="animation-delay:.62s">e</tspan><tspan class="k" style="animation-delay:.68s">n</tspan><tspan class="k" style="animation-delay:.74s">t</tspan><tspan class="k" style="animation-delay:.80s"> </tspan><tspan class="k s" style="animation-delay:.86s">"</tspan><tspan class="k s" style="animation-delay:.92s">w</tspan><tspan class="k s" style="animation-delay:.98s">h</tspan><tspan class="k s" style="animation-delay:1.04s">o</tspan><tspan class="k s" style="animation-delay:1.10s"> </tspan><tspan class="k s" style="animation-delay:1.16s">i</tspan><tspan class="k s" style="animation-delay:1.22s">s</tspan><tspan class="k s" style="animation-delay:1.28s"> </tspan><tspan class="k s" style="animation-delay:1.34s">m</tspan><tspan class="k s" style="animation-delay:1.40s">i</tspan><tspan class="k s" style="animation-delay:1.46s">x</tspan><tspan class="k s" style="animation-delay:1.52s">y</tspan><tspan class="k s" style="animation-delay:1.58s">a</tspan><tspan class="k s" style="animation-delay:1.64s">n</tspan><tspan class="k s" style="animation-delay:1.70s">g</tspan><tspan class="k s" style="animation-delay:1.76s">?</tspan><tspan class="k s" style="animation-delay:1.82s">"</tspan></text>
 
-<g class="l" style="animation-delay:2.3s"><circle class="p" cx="30" cy="107" r="4" fill="#6e7681" style="animation-delay:2.3s"/><text x="44" y="112" class="d">thinking</text></g>
+<g class="l" style="animation-delay:2.3s"><circle class="p" cx="30" cy="107" r="4" fill="#656d76" style="animation-delay:2.3s"/><text x="44" y="112" class="d">thinking</text></g>
 <text x="44" y="134" class="l f i" style="animation-delay:2.9s">Someone wants to know who mixyang is. Read the profile before answering.</text>
 
-<g class="l" style="animation-delay:3.6s"><circle cx="30" cy="167" r="4" fill="#d29922"/><text x="44" y="172"><tspan class="a">read_file</tspan> profile.toml</text></g>
+<g class="l" style="animation-delay:3.6s"><circle cx="30" cy="167" r="4" fill="#9a6700"/><text x="44" y="172"><tspan class="a">read_file</tspan> profile.toml</text></g>
 <text x="44" y="194" class="l" style="animation-delay:3.90s"><tspan class="b">name</tspan>  <tspan class="d">=</tspan> <tspan class="s">"MIXYANG"</tspan></text>
 <text x="44" y="216" class="l" style="animation-delay:3.96s"><tspan class="b">role</tspan>  <tspan class="d">=</tspan> <tspan class="s">"grad student, School of AI, Guangzhou University"</tspan></text>
 <text x="44" y="238" class="l" style="animation-delay:4.02s"><tspan class="b">lang</tspan>  <tspan class="d">=</tspan> [<tspan class="s">"Go"</tspan>, <tspan class="s">"TypeScript"</tspan>]</text>
 <text x="44" y="260" class="l" style="animation-delay:4.08s"><tspan class="b">focus</tspan> <tspan class="d">=</tspan> [<tspan class="s">"agent infra"</tspan>, <tspan class="s">"agent harness"</tspan>, <tspan class="s">"agent backend"</tspan>]</text>
+<text x="44" y="282" class="l" style="animation-delay:4.14s"><tspan class="b">mail</tspan>  <tspan class="d">=</tspan> <tspan class="s">"ruixingxingxing@gmail.com"</tspan></text>
 
-<g class="l" style="animation-delay:4.7s"><circle cx="30" cy="293" r="4" fill="#d29922"/><text x="44" y="298"><tspan class="a">bash</tspan> go test ./harness/...</text></g>
-<text x="44" y="320" class="l" style="animation-delay:5.5s"><tspan class="g">ok</tspan>   harness/loop      <tspan class="f">0.41s</tspan></text>
-<text x="44" y="342" class="l" style="animation-delay:5.7s"><tspan class="g">ok</tspan>   harness/tools     <tspan class="f">0.27s</tspan></text>
-<text x="44" y="364" class="l" style="animation-delay:5.9s"><tspan class="g">ok</tspan>   harness/session   <tspan class="f">0.33s</tspan></text>
+<g class="l" style="animation-delay:4.7s"><circle cx="30" cy="315" r="4" fill="#9a6700"/><text x="44" y="320"><tspan class="a">bash</tspan> go test ./harness/...</text></g>
+<text x="44" y="342" class="l" style="animation-delay:5.5s"><tspan class="g">ok</tspan>   harness/loop      <tspan class="f">0.41s</tspan></text>
+<text x="44" y="364" class="l" style="animation-delay:5.7s"><tspan class="g">ok</tspan>   harness/tools     <tspan class="f">0.27s</tspan></text>
+<text x="44" y="386" class="l" style="animation-delay:5.9s"><tspan class="g">ok</tspan>   harness/session   <tspan class="f">0.33s</tspan></text>
 
-<g class="l" style="animation-delay:6.5s"><circle cx="30" cy="397" r="4" fill="#3fb950"/><text x="44" y="402" class="g">answer</text></g>
-<text x="44" y="424" class="l" style="animation-delay:6.8s">Grad student at the School of AI, Guangzhou University.</text>
-<text x="44" y="446" class="l" style="animation-delay:6.95s">Works on agent infra and harnesses, plus the backend services agents run on.</text>
+<g class="l" style="animation-delay:6.5s"><circle cx="30" cy="419" r="4" fill="#1a7f37"/><text x="44" y="424" class="g">answer</text></g>
+<text x="44" y="446" class="l" style="animation-delay:6.8s">Grad student at the School of AI, Guangzhou University.</text>
+<text x="44" y="468" class="l" style="animation-delay:6.95s">Works on agent infra and harnesses, plus the backend services agents run on.</text>
 
-<text x="44" y="484" class="l f" style="animation-delay:7.4s">2 tool calls · 1.2k in / 186 out · 3.4s</text>
+<text x="44" y="506" class="l f" style="animation-delay:7.4s">2 tool calls · 1.2k in / 186 out · 3.4s</text>
 
-<text x="24" y="520" class="l" style="animation-delay:7.8s"><tspan class="b">~/mixyang</tspan> <tspan class="g">$</tspan> <tspan class="c" style="animation-delay:7.8s">█</tspan></text>
+<text x="24" y="542" class="l" style="animation-delay:7.8s"><tspan class="b">~/mixyang</tspan> <tspan class="g">$</tspan> <tspan class="c" style="animation-delay:7.8s">█</tspan></text>
 </svg>
