@@ -1,10 +1,7 @@
+<img src="./assets/terminal.svg" alt="An agent in a terminal reads MIXYANG's profile, runs the harness tests, and answers: grad student at the School of AI, Guangzhou University, working on agent infra, harnesses, and agent backends." width="100%" />
+
 ### Hi, I'm MIXYANG
 
-I'm at Guangzhou University, in the School of Artificial Intelligence. I mostly write Go, and lately most of that has gone into coding agents.
-
-I've been contributing to [phi](https://github.com/pulseaiclub/phi), a coding agent written in Go:
-
-- [#267](https://github.com/pulseaiclub/phi/pull/267): keep Anthropic thinking blocks and their signatures in order when a session continues after tool calls or gets reloaded from disk.
-- [#295](https://github.com/pulseaiclub/phi/pull/295): an error event that arrives after HTTP 200 no longer gets reported as a finished response.
+I'm a grad student at the School of Artificial Intelligence, Guangzhou University. I work on agent infra and agent harnesses, and write the backend services that agents run on, mostly in Go.
 
 You can reach me at ruixingxingxing@gmail.com.
