@@ -1,25 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MIXYANG/MIXYANG/main/assets/header.svg" alt="MIXYANG — Go and AI agents" width="100%" />
-</p>
+### Hi, I'm MIXYANG
 
-## Hey, I'm MIXYANG.
+I'm at Guangzhou University, in the School of Artificial Intelligence. I mostly write Go, and lately most of that has gone into coding agents.
 
-Exploring **Go**, **AI agents**, and the ideas behind useful software.
+I've been contributing to [phi](https://github.com/pulseaiclub/phi), a coding agent written in Go:
 
-A small corner of the internet for things I'm building, learning, and figuring out along the way.
+- [#267](https://github.com/pulseaiclub/phi/pull/267): keep Anthropic thinking blocks and their signatures in order when a session continues after tool calls or gets reloaded from disk.
+- [#295](https://github.com/pulseaiclub/phi/pull/295): an error event that arrives after HTTP 200 no longer gets reported as a finished response.
 
-### A few things I'm curious about
-
-- **Backend systems** — how the pieces fit together, from APIs to streaming.
-- **AI agents** — models, tools, context, and the conversations between them.
-- **Software craft** — making complex things a little clearer, one iteration at a time.
-
-### Say hello
-
-Always happy to talk about code, exchange ideas, or discover something new.
-
-[ruixingxingxing@gmail.com](mailto:ruixingxingxing@gmail.com)
-
----
-
-<p align="center"><sub>Stay curious. Keep building.</sub></p>
+You can reach me at ruixingxingxing@gmail.com.
